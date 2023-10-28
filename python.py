@@ -1,1 +1,1 @@
-print["enter two numbers"]
+print(" hello python")
